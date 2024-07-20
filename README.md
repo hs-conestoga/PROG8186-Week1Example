@@ -1,8 +1,8 @@
 # E-Commerce Project
 
-**Student Name**: [Your Name]  
-**Student Number**: [Your Student Number]  
-**Date**: [Current Date]
+**Student Name**: [Pritkaur Ramgadiya]  
+**Student Number**: [#8882673]  
+**Date**: [19,July,2024]
 
 ### Technology Stack
 
